@@ -1,5 +1,4 @@
-
-# NOT-POLYS-IFSIC
+ # NOT-POLYS-IFSIC
 
 On va voir dans ce documents la diffèrence entre les cours du MIT OCW et ceux de l'IFSIC là où j'ai fais mes études
 
@@ -17,16 +16,13 @@ Ref. 	Titre	Auteurs	Nombre de pages	Prix en �
 42	Analyse de donn�es	A. Ibrahim, H. Benali	133	4
 
 51	Introduction au 8086. Langage d'assemblage	Ph. Ingels	71	2
-Language d'Assemblage se trouve sur une seule lecture
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/c10/
+- Language d'Assemblage se trouve sur une seule lecture https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/c10/
 
 63	Fonctions et utilisation des syst�mes Partie I	Ph. Ingels	121	4
-Il y a tout un cours sur les systèmes d'exploitation
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/
+- Il y a tout un cours sur les systèmes d'exploitation https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/
 
 64	Manuel d'utilisation �l�mentaire d'Unix sur Sun et PC-Linux	J.L. Nebut	27	1
-C'est ensemble d'exercices et un article à lire
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/week-2/unix-assignment-part-1/
+- C'est ensemble d'exercices et un article à lire https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/week-2/unix-assignment-part-1/
 
 66	Algorithmique des graphes	J.M. H�lary	183	6
 
