@@ -27,6 +27,7 @@ Ref. 	Titre	Auteurs	Nombre de pages	Prix en �
 - C'est ensemble d'exercices et un article à lire https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/week-2/unix-assignment-part-1/
 
 66	Algorithmique des graphes	J.M. H�lary	183	6
+- Sur la notion d'algorithmes sinon aller à la section réseaux plus bas https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
 
 67	Logique informatique	J. Houdebine	52	2
 
