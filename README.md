@@ -1,7 +1,6 @@
-
 # NOT-POLYS-IFSIC
 
-On va voir dans ce documents la diffèrence entre les cours du MIT OCW et ceux de l'IFSIC là où j'ai fais mes études
+On va voir dans ce documents la diffèrence entre les cours du MIT OCW et ceux de l'IFSIC là où j'ai fais mes études et quelques remarques et annotations, on verra peut être si j'ajoute les polys qui existent encore dans les pages persos de leur auteurs, mes professeurs que je remercirais jamais de m'avoir apprit autant de choses qui m'ont aidé toute ma vie, j'ai bientôt 50 ans ceci date d'il y a 30 ans
 
 Je rappelle le lien vers MIT OCW
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
@@ -65,6 +64,7 @@ Ref. 	Titre	Auteurs	Nombre de pages	Prix en �
 97	Cours avanc� de synth�se d'image. Illumination globale : th�orie et pratique	K. Bouatouch, S.N. Pattanaik, P. Tellier	74	2
 
 99	Programmation par objets en C++	P. Le Certen, L. Ungaro	79	2
+- Quand je disais aux recruteurs que je connaissais plusieurs langages ils ne m'ont pas cru, avec le temps j'en ai oublié beaucoup mais en tout cas voilà il y a c++, c, java, caml ... comme dans mon CV de l'époque que j'ai toujours conservé et qui est aussi simple que de dire j'ai fais des stages et j'ai réussi mes études du premier coup
 
 100	Introduction � la programmation avec CAML	J.M. H�lary	120	4
 
