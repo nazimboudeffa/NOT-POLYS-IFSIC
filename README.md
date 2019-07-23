@@ -64,7 +64,7 @@ Ref. 	Titre	Auteurs	Nombre de pages	Prix en �
 97	Cours avanc� de synth�se d'image. Illumination globale : th�orie et pratique	K. Bouatouch, S.N. Pattanaik, P. Tellier	74	2
 
 99	Programmation par objets en C++	P. Le Certen, L. Ungaro	79	2
-- Quand je disais aux recruteurs que je connaissais plusieurs langages ils ne m'ont pas cru, avec le temps j'en ai oublié beaucoup mais en tout cas voilà il y a c++, c, java, caml ... comme dans mon CV de l'époque que j'ai toujours conservé et qui est aussi simple que de dire j'ai fais des stages et j'ai réussi mes études du premier coup
+- Quand je disais aux recruteurs que je connaissais plusieurs langages ils ne m'ont pas cru, , j'ai gardé quelques très mauvais souvenirs des grosses SSII, avec le temps j'en ai oublié beaucoup mais à l'époque je les connaissais tous, en tout cas ceux de mon cursus il y a c++, c, java, caml ... comme dans mon CV de l'époque que j'ai toujours conservé et qui est aussi simple que de dire j'ai fais des stages et j'ai réussi mes études du premier coup
 
 100	Introduction � la programmation avec CAML	J.M. H�lary	120	4
 
