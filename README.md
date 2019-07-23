@@ -1,3 +1,4 @@
+
 # NOT-POLYS-IFSIC
 
 On va voir dans ce documents la diffèrence entre les cours du MIT OCW et ceux de l'IFSIC là où j'ai fais mes études
@@ -10,7 +11,9 @@ Celui de l'IFSIC https://istic.univ-rennes1.fr/
 Nous verrons d'autres universités au fur et à mesure
 
 Ref. 	Titre	Auteurs	Nombre de pages	Prix en �
+
 29	Statistiques et Probabilit�s	I.C. Lerman	141	4
+
 42	Analyse de donn�es	A. Ibrahim, H. Benali	133	4
 
 51	Introduction au 8086. Langage d'assemblage	Ph. Ingels	71	2
@@ -26,18 +29,31 @@ C'est ensemble d'exercices et un article à lire
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/week-2/unix-assignment-part-1/
 
 66	Algorithmique des graphes	J.M. H�lary	183	6
+
 67	Logique informatique	J. Houdebine	52	2
+
 68	Architecture et organisation des systemes	J. Ristori, L. Ungaro	223	7
+
 75	Commandes et langage de commande UNIX et Linux	J.L. Nebut	184	6
+
 77	Fonctions et utilisation des systemes Partie II	Ph. Ingels	72	2
+
 79	Base de donn�es : une introduction au mod�le relationnel	D. Herman, P.Burgevin, P.Fresnais	100	3
+
 81	Le langage C. D�finition de la norme ANSI	J.L. Nebut	81	2
+
 82	Synth�se d' images	K. Bouatouch, C.Bouville	86	3
+
 83	La mod�lisation des sc�nes tridimensionnelles	G. Hegron	75	2
+
 87	Probabilit�s appliqu�es	R. Marie	139	4
+
 88	Langage EIFFEL Version 5	M. Bousse, J.M. H�lary, B. Houssais, J.L. Nebut, R. Vorc'h	195	6
+
 89	M�thodes et outils de l' informatique : Approche fonctionnelle	A. Foret, D. Herman	164	5
+
 91	Optimisation P. L.	R. Marie	59	2
+
 92	Conception de syst�mes d'information. M�thode Merise	J. Villard, C. Queguiner	103	3
 94	Langages formels	A. Grazon	70	2
 95	El�ments de probabilit�s et applications aux syst�mes Dipl�me ing�nieur 2�me ann�e MAST/PAS	R. Marie	79	2
