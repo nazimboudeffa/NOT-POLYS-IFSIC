@@ -1,4 +1,5 @@
- # NOT-POLYS-IFSIC
+
+# NOT-POLYS-IFSIC
 
 On va voir dans ce documents la diffèrence entre les cours du MIT OCW et ceux de l'IFSIC là où j'ai fais mes études
 
@@ -10,6 +11,7 @@ Celui de l'IFSIC https://istic.univ-rennes1.fr/
 Nous verrons d'autres universités au fur et à mesure
 
 Ref. 	Titre	Auteurs	Nombre de pages	Prix en �
+---
 
 29	Statistiques et Probabilit�s	I.C. Lerman	141	4
 
