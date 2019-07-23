@@ -68,8 +68,12 @@ Ref. 	Titre	Auteurs	Nombre de pages	Prix en �
 100	Introduction � la programmation avec CAML	J.M. H�lary	120	4
 
 102	Cours r�seaux et protocoles informatiques (REPR)	B. Cousin, C. Viho	217	7
+- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/
+- D'une manière plus formelle on retrouve des notions très abstrates sur les réseaux dans ce cours https://ocw.mit.edu/courses/economics/14-15j-networks-spring-2018/lecture-and-recitation-notes/
 
 103	Programmation par objets, parall�le et r�partie en Java	P. Le Certen, L. Ungaro	145	4
+- On étudie le python https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
+- Encore du python https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/
 
 104	Internet : Les protocoles de transmission de donn�es	B. Cousin	112	3
 
