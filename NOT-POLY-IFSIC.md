@@ -1,10 +1,5 @@
 # Annotations sur les cours du MIT OCW
 
-<img src="logo-mit-ocw.jpg" align="right" width="40%">
-
-Ref. 	Titre	Auteurs	Nombre de pages	Prix en �
----
-
 29	Statistiques et Probabilit�s	I.C. Lerman	141	4
 
 42	Analyse de donn�es	A. Ibrahim, H. Benali	133	4

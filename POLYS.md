@@ -1,5 +1,3 @@
-# Liste des Polycopiés
-
 Ref. 	Titre	Auteurs	Nombre de pages	Prix en �
 ---
 
