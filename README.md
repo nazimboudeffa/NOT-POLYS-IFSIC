@@ -13,7 +13,7 @@ Celui de l'IFSIC https://istic.univ-rennes1.fr/
 
 Nous verrons d'autres universités au fur et à mesure
 
-- [Parcours et numéros de Polycopié correspondant WiP](PARCOURS.md)
+- [Parcours et numéros de Polycopié correspondant "WiP"](PARCOURS.md)
 - [Liste Complète des Polycopiés de l'IFSIC](POLYS.md)
 - [Comparaison avec le MIT OCW](NOT-POLY-IFSIC.md)
 - [Bibliographie](BIBLIOGRAPHY.md)
