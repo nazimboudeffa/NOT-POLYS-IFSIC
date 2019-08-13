@@ -1,4 +1,4 @@
-# Annotations sur les cours du MIT OCW
+# Liste des Polycopiés
 
 Ref. 	Titre	Auteurs	Nombre de pages	Prix en �
 ---
@@ -8,19 +8,14 @@ Ref. 	Titre	Auteurs	Nombre de pages	Prix en �
 42	Analyse de donn�es	A. Ibrahim, H. Benali	133	4
 
 51	Introduction au 8086. Langage d'assemblage	Ph. Ingels	71	2
-- Language d'Assemblage se trouve sur une seule lecture https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/c10/
 
 63	Fonctions et utilisation des syst�mes Partie I	Ph. Ingels	121	4
-- Il y a tout un cours sur les systèmes d'exploitation https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/
 
 64	Manuel d'utilisation �l�mentaire d'Unix sur Sun et PC-Linux	J.L. Nebut	27	1
-- C'est ensemble d'exercices et un article à lire https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/week-2/unix-assignment-part-1/
 
 66	Algorithmique des graphes	J.M. H�lary	183	6
-- Sur la notion d'algorithmes sinon aller à la section réseaux plus bas https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
 
 67	Logique informatique	J. Houdebine	52	2
-
 
 68	Architecture et organisation des systemes	J. Ristori, L. Ungaro	223	7
 
@@ -55,17 +50,12 @@ Ref. 	Titre	Auteurs	Nombre de pages	Prix en �
 97	Cours avanc� de synth�se d'image. Illumination globale : th�orie et pratique	K. Bouatouch, S.N. Pattanaik, P. Tellier	74	2
 
 99	Programmation par objets en C++	P. Le Certen, L. Ungaro	79	2
-- Quand je disais aux recruteurs que je connaissais plusieurs langages ils ne m'ont pas cru, , j'ai gardé quelques très mauvais souvenirs des grosses SSII, avec le temps j'en ai oublié beaucoup mais à l'époque je les connaissais tous, en tout cas ceux de mon cursus il y a c++, c, java, caml ... comme dans mon CV de l'époque que j'ai toujours conservé et qui est aussi simple que de dire j'ai fais des stages et j'ai réussi mes études du premier coup. MERCI DE VOIR LA SECTION SUR JAVA pour connaitre le premier language à connaitre PYTHON et qui remplace le PASCAL premier langage
 
 100	Introduction � la programmation avec CAML	J.M. H�lary	120	4
 
 102	Cours r�seaux et protocoles informatiques (REPR)	B. Cousin, C. Viho	217	7
-- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/
-- D'une manière plus formelle on retrouve des notions très abstrates sur les réseaux dans ce cours https://ocw.mit.edu/courses/economics/14-15j-networks-spring-2018/lecture-and-recitation-notes/
 
 103	Programmation par objets, parall�le et r�partie en Java	P. Le Certen, L. Ungaro	145	4
-- On étudie le python https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
-- Encore du python https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/
 
 104	Internet : Les protocoles de transmission de donn�es	B. Cousin	112	3
 
