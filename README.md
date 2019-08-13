@@ -15,3 +15,5 @@ Nous verrons d'autres universités au fur et à mesure
 - [Liste des Polycopiés de l'IFSIC](POLYS.md)
 - [Comparaison avec le MIT OCW](NOT-POLY-IFSIC.md)
 - [Bibliographie](BIBLIOGRAPHY.md)
+
+<img src="logo-mit-ocw.jpg" align="right" width="40%">
