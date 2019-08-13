@@ -10,3 +10,5 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
 Celui de l'IFSIC https://istic.univ-rennes1.fr/
 
 Nous verrons d'autres universités au fur et à mesure
+
+- [Liste des Polycopiés de l'IFSIC](POLYS.md)
