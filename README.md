@@ -9,7 +9,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
 
 Celui de l'IFSIC https://istic.univ-rennes1.fr/
 
-<img src="logo-mit-ocw.jpg" align="left" width="40%">
+<img src="logo-mit-ocw.jpg" align="right" width="40%">
 
 Nous verrons d'autres universités au fur et à mesure
 
