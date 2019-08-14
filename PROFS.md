@@ -8,4 +8,4 @@
 - Annie Foret (automates)
 - Anne Grazon (langages)
 - Bernard Cousin (les réseaux dans toutes leur formes)
-- Didier Caucal (le meilleur psy du secret défence)
+- Didier Caucal (le meilleur psy du secret défence tellement il lit dans mes pensées)

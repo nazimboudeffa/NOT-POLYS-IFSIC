@@ -14,4 +14,5 @@ Nous verrons d'autres universités au fur et à mesure
 - [Parcours et numéros de Polycopié correspondant "WiP"](PARCOURS.md)
 - [Liste Complète des Polycopiés de l'IFSIC](POLYS.md)
 - [Comparaison avec le MIT OCW](NOT-POLY-IFSIC.md)
+- [Professeurs](PROFS.md)
 - [Bibliographie](BIBLIOGRAPHY.md)
