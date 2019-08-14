@@ -9,3 +9,4 @@
 - Anne Grazon (langages)
 - Bernard Cousin (les réseaux dans toutes leur formes)
 - Didier Caucal (le meilleur psy du secret défence tellement il lit dans mes pensées)
+  - http://igm.univ-mlv.fr/~caucal/
