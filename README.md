@@ -20,3 +20,7 @@ Nous verrons d'autres universités au fur et à mesure
 - [Comparaison avec le MIT OCW](NOT-POLY-IFSIC.md)
 - [Professeurs](PROFS.md)
 - [Bibliographie](BIBLIOGRAPHY.md)
+
+## Let's go ahead and redo some changes
+
+All I remember from my studies is that it was well organised so for example how Lyon university is organised and this what we will see next
