@@ -1,7 +1,7 @@
 <img src="parcours.jpg" align="center">
 
-# Informatique 1
-
-http://inf1.gforge.inria.fr/
+| UE | Page | Poly |
+|---|---|---|
+| Informatique 1 | http://inf1.gforge.inria.fr/ | 103 |  
 
 <img src="parcours-complet.jpg" align ="center">
