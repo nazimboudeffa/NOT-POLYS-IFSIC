@@ -21,9 +21,9 @@ Nous verrons d'autres universités au fur et à mesure
 - [Professeurs](PROFS.md)
 - [Bibliographie](BIBLIOGRAPHY.md)
 
-## Let's go ahead and redo some changes
+## Allons y et refaisons les changements
 
-All I remember from my studies is that it was well organised so for example like how Lyon university is organised and this what we will see next
+Tout ce dont je me souviens de mes études est le fait qu'ils étaient très bien organisés comme par exemple les UE de Lyon 1 et c'est ce que l'on va voir dans la suite
 
 - [Université de Lyon 1](LYON1.md)
 
