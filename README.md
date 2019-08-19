@@ -15,7 +15,7 @@ Nous verrons d'autres universités au fur et à mesure
 
 ## Index
 
-- [Parcours et numéros de Polycopié correspondant "WiP"](PARCOURS.md)
+- [Parcours et numéros de Polycopié correspondant "WiP"](RENNES1.md)
 - [Liste Complète des Polycopiés de l'IFSIC](POLYS.md)
 - [Comparaison avec le MIT OCW](NOT-POLY-IFSIC.md)
 - [Professeurs](PROFS.md)
