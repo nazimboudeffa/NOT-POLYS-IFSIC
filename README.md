@@ -26,3 +26,5 @@ Nous verrons d'autres universités au fur et à mesure
 All I remember from my studies is that it was well organised so for example like how Lyon university is organised and this what we will see next
 
 - [Université de Lyon 1](LYON1.md)
+
+On voit bien qu'à la fin de la L1 on peut déjà administrer un serveur Linux, installer un serveur comme apache et coder des pages HTML/CSS/JS, en 1995 j'étais déjà capable de faire cela à la fin de ma première année de licence qui se nommait première année de DEUG, j'étais aussi capablle de monter un PC mais j'ai dû attendre la licence donc L3 aujourd'hui pour enfin m'y mettre car l'informatique personelle était à ses débuts et linux à ses premières versions

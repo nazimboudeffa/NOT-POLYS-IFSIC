@@ -31,8 +31,6 @@ On pourrait s'arrêter un peu pour reflechir à comment organiser nos connaissan
 
 Les cheat-sheets pour le second semestre sont en lien surtout avec [HTML](https://devhints.io/html)
 
-On voit bien que l'on peut déjà administrer un serveur Linux, installer un serveur comme apache et coder des pages HTML/CSS/JS
-
 # L2
 
 ...
