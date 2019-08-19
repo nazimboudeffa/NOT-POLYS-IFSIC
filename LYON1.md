@@ -1,6 +1,6 @@
 # L1
 
-A la fin du premier semestre on est déjà capables de coder un petit programme en c et d'executer des commandes Unix
+A la fin du premier semestre on est déjà capables de coder un petit programme en c et d'executer des commandes Unix et faire du bash
 
 - S1 : LIFAP1
   - Bases de l'algorithmique
