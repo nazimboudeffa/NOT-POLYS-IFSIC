@@ -53,7 +53,7 @@ Ref. 	Titre	Auteurs	Nombre de pages	Prix en �
 
 102	Cours r�seaux et protocoles informatiques (REPR)	B. Cousin, C. Viho	217	7
 
-103	Programmation par objets, parall�le et r�partie en Java	P. Le Certen, L. Ungaro	145	4
+# 103	Programmation par objets, parall�le et r�partie en Java	P. Le Certen, L. Ungaro	145	4
 
 104	Internet : Les protocoles de transmission de donn�es	B. Cousin	112	3
 
