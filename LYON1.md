@@ -18,3 +18,5 @@ A la fin du premier semestre on est déjà capables de coder un petit programme 
 - S2 : LIFAP2
 
 - S2 : LIFASR2
+
+On pourrait s'arrêter un peu pour reflechir à comment organiser ces connaissances sous forme de fiches et résumés car par exemple au semestre 1 on pourrait travailler sur une cheat sheet dédiée à C et Bash
