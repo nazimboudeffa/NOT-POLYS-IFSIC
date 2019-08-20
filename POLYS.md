@@ -33,13 +33,13 @@ Ref. 	Titre	Auteurs	Nombre de pages	Prix en �
 
 88	Langage EIFFEL Version 5	M. Bousse, J.M. H�lary, B. Houssais, J.L. Nebut, R. Vorc'h	195	6
 
-89	M�thodes et outils de l' informatique : Approche fonctionnelle	A. Foret, D. Herman	164	5
+### 89	M�thodes et outils de l' informatique : Approche fonctionnelle	A. Foret, D. Herman	164	5
 
 91	Optimisation P. L.	R. Marie	59	2
 
 92	Conception de syst�mes d'information. M�thode Merise	J. Villard, C. Queguiner	103	3
 
-94	Langages formels	A. Grazon	70	2
+### 94	Langages formels	A. Grazon	70	2
 
 95	El�ments de probabilit�s et applications aux syst�mes Dipl�me ing�nieur 2�me ann�e MAST/PAS	R. Marie	79	2
 
