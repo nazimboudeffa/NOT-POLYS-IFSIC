@@ -17,8 +17,8 @@
 - Méthodes mathématiques pour l’informatique, J. Vélu, (Dunod,5ème édition 2013)
 - Introductory Logic and Sets for Computer Scientists, N. Nissanke(Addisson Wesley, 1998)
 - Théorie des langages et des automates, J-M. Autebert (Dunod,1997)
-- Introduction to automata theory, languages and computation, J.E.Hopcroft, J.D. Ullman (Addison-Wesley, 2007)
-- Concepts fondamentaux de l’informatique, A. Aho, J. D. Ullman(Dunod, 1996)
+- [Introduction to automata theory, languages and computation, J.E.Hopcroft, J.D. Ullman (Addison-Wesley, 2007)](http://infolab.stanford.edu/~ullman/ialc.html)
+- [Concepts fondamentaux de l’informatique, A. Aho, J. D. Ullman(Dunod, 1996)](http://infolab.stanford.edu/~ullman/focs.html)
 - La Logique ou l'art de raisonner, Y. Delmas-Rigoutsos et R.Lalement (Le Pommier, 2002)
 - Logique sans peine, Lewis Carroll, (Hermann, 1966, 1992) - extraitstirés de The Game of Logic, 1887, et de Symbolic Logic, 1896 -
 - GODEL, ESCHER, BACH. Les Brins d’une Guirlande Eternelle, D.Hofstadter (InterEditions, 1985 - Dunod, 2008)
