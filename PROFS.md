@@ -13,3 +13,5 @@ Je regrete la disparition de certains profs que j'aurai aimé garder une trace d
   - https://www.irisa.fr/prive/Bernard.Cousin/enseignement.html
 - Didier Caucal (le meilleur psy du secret défense tellement il lit dans mes pensées)
   - http://igm.univ-mlv.fr/~caucal/
+- Jeff Ullman (LA référence sur les automates, il est prof à Stanford et j'ai eu le plaisir de suivre son cours)
+  - http://infolab.stanford.edu/~ullman
