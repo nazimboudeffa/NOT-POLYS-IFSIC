@@ -1,5 +1,9 @@
 # Réfèrences Bibliographiques
 
+## Systèmes d'Exploitation
+
+- [A. Tanenbaum, Opertaing Systems, Design and Implementation](https://www.cs.vu.nl/~ast/book_covers/OSDI-1-eng.jpg)
+
 ## Réseaux
 
 - PUJOLLE G., "LES RESEAUX", EYROLLES, 2008.
