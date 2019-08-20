@@ -13,6 +13,10 @@ Celui de l'IFSIC https://istic.univ-rennes1.fr/
 
 Nous verrons d'autres universités au fur et à mesure
 
+## Note avant lecture
+
+Ce repository serait beaucoup plus complet si on fait une base de donnée des cours disponibles et correspondants dans d'autres universités avec le professeur remplaçant et tout
+
 ## Index
 
 - [Parcours et numéros de Polycopié correspondant "WiP"](RENNES1.md)
