@@ -1,4 +1,4 @@
-# Annotations sur les cours du MIT OCW
+# Annotations sur les polys de l'IFSIC
 
 29	Statistiques et Probabilit�s	I.C. Lerman	141	4
 
