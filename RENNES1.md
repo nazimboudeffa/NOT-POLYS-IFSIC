@@ -1,10 +1,10 @@
 # Correspondances entre UE et Poly
 
-| UE | Page | Poly |
-|---|---|---|
-| Informatique 1 | http://inf1.gforge.inria.fr/ | [103](https://github.com/nazimboudeffa/NOT-POLYS-IFSIC/blob/master/POLYS.md#103programmation-par-objets-parallle-et-rpartie-en-javap-le-certen-l-ungaro1454) | 
-| Informatique 1 Spécialité | http://people.irisa.fr/Elisa.Fromont/Enseignements.html | ??? |
-| Outils Formels pour l'Informatique | ??? | [89](https://github.com/nazimboudeffa/NOT-POLYS-IFSIC/blob/master/POLYS.md#89mthodes-et-outils-de-l-informatique--approche-fonctionnellea-foret-d-herman1645), [94](https://github.com/nazimboudeffa/NOT-POLYS-IFSIC/blob/master/POLYS.md#94langages-formelsa-grazon702) |
+| Niveau | UE | Page | Poly |
+|---|---|---|---|
+| L1/S1 | Informatique 1 | http://inf1.gforge.inria.fr/ | [103](https://github.com/nazimboudeffa/NOT-POLYS-IFSIC/blob/master/POLYS.md#103programmation-par-objets-parallle-et-rpartie-en-javap-le-certen-l-ungaro1454) | 
+| L1/S2 | Informatique 1 Spécialité | http://people.irisa.fr/Elisa.Fromont/Enseignements.html | ??? |
+| L2/S1 | Outils Formels pour l'Informatique | ??? | [89](https://github.com/nazimboudeffa/NOT-POLYS-IFSIC/blob/master/POLYS.md#89mthodes-et-outils-de-l-informatique--approche-fonctionnellea-foret-d-herman1645), [94](https://github.com/nazimboudeffa/NOT-POLYS-IFSIC/blob/master/POLYS.md#94langages-formelsa-grazon702) |
 
 # Remarques
 
