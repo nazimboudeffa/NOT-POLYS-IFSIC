@@ -13,7 +13,7 @@ Ref. 	Titre	Auteurs	Nombre de pages	Prix en €
 
 66	Algorithmique des graphes	J.M. H�lary	183	6
 
-67	Logique informatique	J. Houdebine	52	2
+### 67	Logique informatique	J. Houdebine	52	2
 
 68	Architecture et organisation des systemes	J. Ristori, L. Ungaro	223	7
 
