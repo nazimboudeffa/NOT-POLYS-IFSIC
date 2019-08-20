@@ -1,4 +1,4 @@
-Ref. 	Titre	Auteurs	Nombre de pages	Prix en �
+Ref. 	Titre	Auteurs	Nombre de pages	Prix en €
 ---
 
 29	Statistiques et Probabilit�s	I.C. Lerman	141	4
