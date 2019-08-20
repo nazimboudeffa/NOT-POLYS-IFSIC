@@ -8,7 +8,7 @@
 - SERVIN C., "RESEAUX ET TELECOM" 2 ed, DUNOD, 2006.
 - *G. Pujolle, Cours réseaux et télécoms, Eyrolles, 2004*
 - J. Kurose, K. Ross, Analyse structurée des réseaux, Pearson Education, 2003
-- A. Tanenbaum, Réseaux, InterEdition, 1997.
+- [A. Tanenbaum, Réseaux, InterEdition, 1997.](https://www.cs.vu.nl/~ast/book_covers/CN-4-french.jpg)
 - H. Nussbaumer, Téléinformatique - tome 1, Presses polytechniques romandes, 1987
 
 ## Méthodes Formelles
