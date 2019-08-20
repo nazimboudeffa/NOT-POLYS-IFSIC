@@ -18,7 +18,6 @@
 
 67	Logique informatique	J. Houdebine	52	2
 
-
 68	Architecture et organisation des systemes	J. Ristori, L. Ungaro	223	7
 
 75	Commandes et langage de commande UNIX et Linux	J.L. Nebut	184	6
@@ -46,6 +45,7 @@
 92	Conception de syst�mes d'information. M�thode Merise	J. Villard, C. Queguiner	103	3
 
 94	Langages formels	A. Grazon	70	2
+- Voir à 89
 
 95	El�ments de probabilit�s et applications aux syst�mes Dipl�me ing�nieur 2�me ann�e MAST/PAS	R. Marie	79	2
 
