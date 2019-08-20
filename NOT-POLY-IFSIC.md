@@ -38,6 +38,8 @@
 88	Langage EIFFEL Version 5	M. Bousse, J.M. H�lary, B. Houssais, J.L. Nebut, R. Vorc'h	195	6
 
 89	M�thodes et outils de l' informatique : Approche fonctionnelle	A. Foret, D. Herman	164	5
+- L'ue actuelle c'est Outils Formels pour l'Informatique du coup ce qui me semble le plus adapté c'est de voir ce cours https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010
+- Voir aussi à Nice http://deptinfo.unice.fr/~julia/OFI/ car je ne trouves pas la page correspondante à Rennes
 
 91	Optimisation P. L.	R. Marie	59	2
 
