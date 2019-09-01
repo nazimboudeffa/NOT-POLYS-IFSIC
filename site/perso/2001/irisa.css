@@ -1,0 +1,82 @@
+
+BODY {
+  color: black;
+  background-image: url(/web/20010526102416im_/http://www.irisa.fr/images/fond.gif);
+  font-family: sans-serif;
+}
+
+A {
+  color: #FF8000;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+IMG {
+  border-top: none;
+  border-right: none;
+  border-bottom: none;
+  border-left: none;
+}
+
+H1 {
+  color: #2D74D4;
+  text-decoration: overline;
+  font-family: sans-serif;
+; font-size: 18px
+}
+
+H2 {
+  color: #B6B1A2;
+  letter-spacing: 2px;
+  font-family: sans-serif;
+; font-size: 15px
+}
+
+H3 {
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+.docu {
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+H4 {
+  font-family: sans-serif;
+}
+
+P {
+  font-family: sans-serif;
+}
+
+B {
+  font-family: sans-serif;
+}
+
+TD {
+  font-family: sans-serif;
+}
+.h2gris {  color: #B6B1A2; font-family: sans-serif; font-size: 15px; letter-spacing: 2px}
+
+/*
+     FILE ARCHIVED ON 10:24:16 May 26, 2001 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:37:02 Sep 01, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots.policy: 0.23
+  esindex: 0.009
+  PetaboxLoader3.resolve: 54.454
+  RedisCDXSource: 1.856
+  load_resource: 115.263
+  exclusion.robots: 0.242
+  LoadShardBlock: 56.653 (3)
+  CDXLines.iter: 14.581 (3)
+  PetaboxLoader3.datanode: 91.556 (4)
+  captures_list: 77.209
+*/
