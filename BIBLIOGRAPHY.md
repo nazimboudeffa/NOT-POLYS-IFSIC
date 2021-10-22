@@ -34,3 +34,7 @@
 ## Mathématiques pour l'informatique
 
 - [Maths for computer science](https://www.amazon.fr/Mathematics-Computer-Science-Eric-Lehman/dp/9888407066)
+
+## Langages de Programmation
+
+- [The Python Tutorial, by Guido van Rossum](https://docs.python.org/3/tutorial/)
