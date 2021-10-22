@@ -33,7 +33,7 @@
 
 ## Mathématiques pour l'informatique
 
-- [Maths for computer science](https://www.amazon.fr/Mathematics-Computer-Science-Eric-Lehman/dp/9888407066)
+- [Maths for computer science de Eric Lehman (Auteur), F Thomson Leighton (Auteur), Albert R Meyer (Auteur)](https://www.amazon.fr/Mathematics-Computer-Science-Eric-Lehman/dp/9888407066)
 
 ## Langages de Programmation
 
