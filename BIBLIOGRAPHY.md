@@ -30,3 +30,7 @@
 ## Algorithmique
 
 - [Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. Introduction to Algorithms. 3rd ed. MIT Press, 2009. ISBN: 9780262033848.](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
+
+## Mathématiques pour l'informatique
+
+- [Maths for computer science](https://www.amazon.fr/Mathematics-Computer-Science-Eric-Lehman/dp/9888407066)
