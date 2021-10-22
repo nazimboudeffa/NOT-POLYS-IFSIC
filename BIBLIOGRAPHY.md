@@ -1,4 +1,4 @@
-# Réfèrences Bibliographiquesde l'IFSIC
+# Réfèrences Bibliographiques de l'IFSIC
 
 ## Systèmes d'Exploitation
 
@@ -27,7 +27,7 @@
 - Logique sans peine, Lewis Carroll, (Hermann, 1966, 1992) - extraitstirés de The Game of Logic, 1887, et de Symbolic Logic, 1896 -
 - GODEL, ESCHER, BACH. Les Brins d’une Guirlande Eternelle, D.Hofstadter (InterEditions, 1985 - Dunod, 2008)
 
-# Réfèrences Bibliographiquesde du MIT
+# Réfèrences Bibliographiques du MIT OCW
 
 ## Algorithmique
 
