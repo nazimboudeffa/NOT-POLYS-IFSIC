@@ -33,7 +33,7 @@
 
 - [Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. Introduction to Algorithms. 3rd ed. MIT Press, 2009. ISBN: 9780262033848.](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
 
-## Mathématiques pour l'informatique
+## Mathématiques pour l'informatique (méthodes formelles ?)
 
 - [Mathematics for computer science de Eric Lehman (Auteur), F Thomson Leighton (Auteur), Albert R Meyer (Auteur)](https://www.goodreads.com/book/show/12836498-mathematics-for-computer-science)
 
