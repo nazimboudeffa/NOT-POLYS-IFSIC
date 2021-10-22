@@ -26,3 +26,7 @@
 - La Logique ou l'art de raisonner, Y. Delmas-Rigoutsos et R.Lalement (Le Pommier, 2002)
 - Logique sans peine, Lewis Carroll, (Hermann, 1966, 1992) - extraitstirés de The Game of Logic, 1887, et de Symbolic Logic, 1896 -
 - GODEL, ESCHER, BACH. Les Brins d’une Guirlande Eternelle, D.Hofstadter (InterEditions, 1985 - Dunod, 2008)
+
+## Algorithmique
+
+- [Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. Introduction to Algorithms. 3rd ed. MIT Press, 2009. ISBN: 9780262033848.](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
