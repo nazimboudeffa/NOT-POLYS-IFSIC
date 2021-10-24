@@ -1,4 +1,4 @@
-# 👉Réfèrences Bibliographiques de l'IFSIC
+# 👉Références Bibliographiques de l'IFSIC
 
 ## Systèmes d'Exploitation
 
