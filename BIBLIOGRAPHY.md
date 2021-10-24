@@ -15,7 +15,7 @@
 - [A. Tanenbaum, Réseaux, InterEdition, 1997.](https://www.cs.vu.nl/~ast/book_covers/CN-4-french.jpg)
 - H. Nussbaumer, Téléinformatique - tome 1, Presses polytechniques romandes, 1987
 
-## Méthodes Formelles
+## Méthodes
 
 - Mathématiques pour l’informatique, A. Arnold et I. Guessarian(Dunod, 4ème édition 2005), 300 exercices corrigés
 - Méthodes mathématiques pour l’informatique, J. Vélu, (Dunod,5ème édition 2013)
@@ -33,7 +33,7 @@
 
 - [Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. Introduction to Algorithms. 3rd ed. MIT Press, 2009. ISBN: 9780262033848.](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
 
-## Mathématiques pour l'informatique (méthodes formelles ?)
+## Mathématiques pour l'informatique
 
 - [Mathematics for computer science de Eric Lehman (Auteur), F Thomson Leighton (Auteur), Albert R Meyer (Auteur)](https://www.goodreads.com/book/show/12836498-mathematics-for-computer-science)
 
